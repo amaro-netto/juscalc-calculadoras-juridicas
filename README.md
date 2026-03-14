@@ -5,8 +5,6 @@
 ![Vite](https://img.shields.io/badge/Vite-7-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-Componentes-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/ee8557bb-5ee7-4bfe-83fe-2aed892ca947/deploy-status)](https://app.netlify.com/projects/cpa-calculopensaoalimenticia/deploys)
-[![Licença: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 [![Status](https://img.shields.io/badge/Status-Em%20Produção-brightgreen?style=for-the-badge)](https://pensao-calculadora-online.lovable.app/)
 
 <p>&nbsp;</p>

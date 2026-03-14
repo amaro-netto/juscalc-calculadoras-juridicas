@@ -310,7 +310,7 @@ O projeto demonstra a aplicação prática de conceitos como **Clean Architectur
 
 ## 📸 **Prévia do Projeto**
 
-🔗 **Acesse o JUSCALC:** [https://pensao-calculadora-online.lovable.app](https://pensao-calculadora-online.lovable.app)
+🔗 **Acesse o JUSCALC:** [CLIQUE AQUI](https://juscalc.netlify.app/)
 
 <img src="https://github.com/user-attachments/assets/14492323-5727-4ed3-ba15-0095ca9a2443" height="500" alt="JUSCALC - Tela Principal"> <img src="https://github.com/user-attachments/assets/cc158a0e-c7ae-4a87-832b-21f479003e1f" height="500" alt="JUSCALC - Resultados">
 

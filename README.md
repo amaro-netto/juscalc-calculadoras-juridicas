@@ -290,7 +290,7 @@ O JUSCALC foi desenvolvido em total conformidade com a **Lei Geral de Proteção
 ## 👥 **Equipe do Projeto**
 
 <a href="https://github.com/amaro-netto" title="Amaro Netto">
-  <img width="180" src="https://github.com/user-attachments/assets/b7a3a1bf-304a-4974-b75f-1d620ad6ecf1" alt="Amaro Netto Soluções"/>
+  <img width="180" src="https://github.com/user-attachments/assets/b7a3a1bf-304a-4974-b75f-1d620ad6ecf1" alt="Amaro Netto Soluções"/> <a href="https://www.instagram.com/isabelamattos.adv/" title="Isabela Mattos Advogada"><img width="180" src="https://github.com/user-attachments/assets/8f752358-75a7-429d-8319-7afbffa8a2cd"/></a>
 </a>
 
 <p>&nbsp;</p>
